@@ -1,2 +1,3 @@
 # todo-list-udemy
-Created with CodeSandbox
+
+Link para acessar a aplicação [aqui](https://rgdcj.csb.app/)
